@@ -1,6 +1,6 @@
 ######### fehrr #########
 
-$ Base nao testada $
+$ Script nao testado $
 
 $ Tire as webhooks $
 
